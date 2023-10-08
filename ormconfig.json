@@ -1,0 +1,16 @@
+{
+   "name": "postgresconnection", 
+   "type": "postgres",
+   "host": "localhost",
+   "port": 5432,
+   "username": "postgres",
+   "password": "Whyforgotit66!",
+   "database": "forsit",
+   "synchronize": true,
+   "logging": false,
+   "migrations": [],
+   "subscribers": [],
+   "entities": [
+      "src/entity/**/*.ts"
+   ]
+}
